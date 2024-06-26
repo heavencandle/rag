@@ -2,16 +2,6 @@
 
 This repository contains implementations of Retrieval-Augmented Generation (RAG) using LangChain, with two approaches: off-the-shelf and custom logic with LangChain Execution Layer (LCEL).
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-  - [RAG Off-The-Shelf](#rag-off-the-shelf)
-  - [RAG LCEL](#rag-lcel)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. Clone the repository:
